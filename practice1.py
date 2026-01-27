@@ -52,7 +52,7 @@ response = client.responses.create(
     ]
 )
 
-print(response.output_text)
+print(response.output_text) 
 
 
 
