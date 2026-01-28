@@ -40,3 +40,15 @@ https://kiro.dev/
 
 ## Claude skill package
 https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work
+
+
+## Skills.md Explained
+https://www.youtube.com/watch?v=7XwP9ueIRaE&t=46s
+
+
+## Projects built with langchain
+https://lablab.ai/apps/tech/langchain/langchain
+
+## fashion project in Langchain
+https://lablab.ai/apps/topic/fashion
+
