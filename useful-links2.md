@@ -8,6 +8,8 @@ https://docs.langchain.com/oss/python/langchain/rag
 
 https://docs.langchain.com/oss/python/langchain/knowledge-base
 
+RAG Notebook: https://colab.research.google.com/drive/188txf0xlbopi_RTMm-L3YcyAFgiFjhpe#scrollTo=RTKZHQnvDI6i
+
 
 
 
@@ -42,4 +44,56 @@ https://lovable.dev/
 
 
 
+
+## for working on multiple branches with agents
+https://developers.openai.com/codex/app/worktrees/
+
+
+## IDE by Google
+https://antigravity.google/
+
+## interesting AI project
+https://rentahuman.ai/
+
+
+## A framework to build MCP severs
+https://gofastmcp.com/getting-started/welcome
+
+## Another list of MCP servers
+https://github.com/modelcontextprotocol/servers?tab=readme-ov-file
+
+
+## Tutorial about Multi Modal AI workflows
+https://www.youtube.com/live/UwdpNxHZDwI
+
+
+## MCP server creation tutorial
+https://modelcontextprotocol.io/docs/develop/build-server
+
+
+##  A lightweight framework for creting MCP servers
+https://gofastmcp.com/getting-started/welcome
+
+
+## Building an MCP client
+https://modelcontextprotocol.io/docs/develop/build-client
+
+
+## MCP security best practices
+https://modelcontextprotocol.io/docs/tutorials/security/security_best_practices
+
+
+## LLM based evaluation ysuplatform
+https://docs.ragas.io/en/stable/
+
+
+## Useful MCP
+https://github.com/CodeGraphContext/CodeGraphContext
+
+### Similar tool to n8n
+https://www.mindstudio.ai/
+
+
+## pre-made agent skill md files
+https://skillsmp.com/
 
