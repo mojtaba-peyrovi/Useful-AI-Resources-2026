@@ -56,3 +56,14 @@ https://github.com/ostris/ai-toolkit?tab=readme-ov-file
 
 ### Open platform for AI workflows
 https://www.floyo.ai/
+
+
+## MCP for Figma
+https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server
+
+## Very useful tool to reduce token usage
+https://github.com/rtk-ai/rtk
+
+## Important about Deep Agents
+https://www.youtube.com/watch?v=IVts6ztrkFg
+
