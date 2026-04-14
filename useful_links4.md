@@ -67,3 +67,49 @@ https://github.com/rtk-ai/rtk
 ## Important about Deep Agents
 https://www.youtube.com/watch?v=IVts6ztrkFg
 
+
+
+
+## AI Coding resources
+
+### useful guide on how to plan for Claude code
+https://boristane.com/blog/how-i-use-claude-code/
+
+### Risks in vibe coding
+https://softwaremind.com/blog/the-rise-and-risk-of-vibe-coding-whats-worth-knowing/
+
+
+### Cursor guide
+https://cursor.com/en-US
+
+### Cursor guide for beginners
+https://creatoreconomy.so/p/cursor-tutorial-for-beginners-from-cursor-head-of-ai-education-lee-robinson
+
+### Claude Code docs
+https://code.claude.com/docs/en/overview
+
+### Claude agentic coding in Terminal
+https://decode.agency/article/claude-code-guide/
+
+
+
+
+
+### Freelancer platforms
+https://wellfound.com/  (look for new startups)
+
+
+[freelancermap.de](https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwi4oIXMj-2TAxUI9nkEHcUGN0oYACICCAEQABoCd2Y&co=1&ase=2&gclid=Cj0KCQjwy_fOBhC6ARIsAHKFB7-AoKE8eDYTf0C1YLes_t5M7HIq-a7tz9dhq9eVBZAZ8yS18pal14IaAntdEALw_wcB&cce=2&category=acrcp_v1_32&sig=AOD64_3Sq7Z65gFBwi9Oj8sOCgaUFPvCNg&q&nis=4&adurl=https://www.freelancermap.de/?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dgoogleads-de-fmap-main%26gad_source%3D1%26gad_campaignid%3D4752412%26gbraid%3D0AAAAAD_gDg1Lzghot2kpsrnR6L9b1gD45%26gclid%3DCj0KCQjwy_fOBhC6ARIsAHKFB7-AoKE8eDYTf0C1YLes_t5M7HIq-a7tz9dhq9eVBZAZ8yS18pal14IaAntdEALw_wcB&ved=2ahUKEwjE_v3Lj-2TAxXySfEDHYaaDucQ0Qx6BAgMEAE)
+
+https://fratch.io/en/freelancers
+
+https://www.botpool.ai/
+
+https://twagofreelance.com/
+
+
+### this one is for general AI jobs
+https://jobs.therundown.ai/
+
+### The name of the personality system I used at Chapter:
+mbti
